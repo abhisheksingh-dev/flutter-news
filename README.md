@@ -10,6 +10,6 @@
 - Basic API's implementation from [news.org](http://www.news.org 'news.org')
 - JSON parsing into custom created models.
 
-### To read more about it check out my website [abhisheksingh.dev](http://https://abhisheksingh.dev/flutter-future-builder-with-example-project/ 'abhisheksingh.dev')
+### To read more about it check out my website [abhisheksingh.dev](https://abhisheksingh.dev/flutter-future-builder-with-example-project/ 'abhisheksingh.dev')
 
 ###Abhishek Singh
